@@ -1,0 +1,1 @@
+declare namespace Cloudflare {interface Env {DB:D1Database;KEIKI_TOOL_SECRET?:string;KEIKI_AGENT_ID?:string;KEIKI_API_KEY?:string;MARITIME_TOKEN?:string;KEIKI_WEBHOOK_SECRET?:string;KEIKI_API_URL?:string;BROWSER_USE_API_KEY?:string;BROWSER_USE_API_URL?:string;BROWSER_USE_TIMEOUT_MINUTES?:string;BROWSER_USE_START_URL?:string;MARITIME_API_URL?:string;}}
